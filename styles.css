@@ -1,1 +1,16 @@
 /* your code */
+table{
+	border:5px solid blueviolet;
+}
+thead
+{
+	background:blue;
+	color:white;
+
+}
+td{
+	padding:20px;
+	margin:10px;
+	color:black;
+	background:skyblue;
+}
